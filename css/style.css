@@ -1,0 +1,293 @@
+
+
+
+/* font-family: 'Lato', sans-serif;  */
+*{ 
+    margin: 0;
+    padding: 0;
+} 
+header{
+
+background: #f6f9f9;
+}
+.head{
+
+width: 80%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+
+align-items: center;
+
+padding: 16px 0px;
+}
+.logo{
+
+width: 30%
+}
+.manu ul{
+
+list-style: none;
+
+display: flex;
+
+justify-content: end;
+}
+.manu ul li{
+
+margin-left: 60px;
+}
+.manu ul li a{
+
+text-decoration: none;
+
+font-size: 18px;
+font-family: 'Lato', sans-serif;
+text-transform: uppercase;
+
+color: #2d3950;
+}
+.manu{ 
+    width: 50%;
+}
+.banner{
+    background-image: url( ../images/banner.png);
+    min-height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner_content{
+
+width: 33%;
+
+text-align: center;
+}
+
+.banner_content h1{
+
+font-size: 100px;
+font-family: 'Lato', sans-serif;
+margin-bottom: 0px;
+
+font-weight: 300;
+
+color: white;
+}
+.banner_content h6{
+
+font-size: 15px;
+
+font-family: 'Lato', sans-serif;
+
+margin-bottom: 47px;
+
+color: white;
+
+font-weight: 400;
+}
+.banner_content button{
+
+padding: 16px 21px;
+
+font-size: 14px;
+
+font-family: 'Lato', sans-serif;
+
+margin-bottom: 100px;
+
+border: 2px solid #15a4fa;
+
+background: transparent;
+
+transition: .4s all ease-in-out;
+
+cursor: pointer;
+
+color: #ffff;
+
+border-radius: 5px;
+}
+.banner_content a{
+    color: white;
+}
+.banner_content span{
+
+display: block;
+
+height: 2px;
+
+background: #15a4fa;
+
+margin-bottom: 27px;
+}
+.content{
+}
+.content_text{width: 54%;
+    margin: auto;
+    text-align: center;padding: 79px 0px;}
+.content_text h1{
+
+margin-bottom: 24px;
+
+font-size: 35px;
+font-family: 'Lato', sans-serif;
+font-weight: 400;
+}
+.content_text h5{
+
+font-size: 15px;
+font-family: 'Lato', sans-serif;
+font-weight: 400;
+}
+.content_manu{
+
+width: 72%;
+
+margin: auto;
+
+display: flex;
+
+justify-content: space-between;
+
+flex-wrap: wrap;
+
+padding: 90px;
+}
+.phon{background-image: url(../images/Strict-c.png);width: 67px;height: 65px;display: flex;justify-content: center;align-items: center;margin-left: 50px;}
+.phon i{
+
+font-size: 32px;
+
+color: white;
+}
+.content_manu1 h4{
+
+margin-top: 20px;
+
+font-size: 17px;
+font-family: 'Lato', sans-serif;
+font-weight: 400;
+}
+.content_manu1 h6{
+    
+margin-top: 10px;
+    
+font-size: 13px;
+font-family: 'Lato', sans-serif;   
+font-weight: 400;
+}
+.content_manu1{
+
+width: 19%;
+
+text-align: center;
+}
+.content_top{background: #f6f9f9;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
